@@ -5,7 +5,6 @@
     <SectionsDemo6Section2 />
     <SectionsDemo6Section3 />
     <SectionsDemo6Section4 />
-    <SectionsDemo6Section5 />
     <SectionsDemo6Section6 />
     <SectionsDemo6Section7 />
     <SectionsDemo6Section8 />
