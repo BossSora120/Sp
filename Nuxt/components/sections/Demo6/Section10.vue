@@ -22,7 +22,7 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Marketing Integrations </h5>
+                                        <h5 class="s-20 w-700">Market Research</h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>
@@ -42,7 +42,7 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Intuitive Dashboard </h5>
+                                        <h5 class="s-20 w-700">User Experience</h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Real-time analytics</h5>
+                                        <h5 class="s-20 w-700">Digital Marketing</h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>

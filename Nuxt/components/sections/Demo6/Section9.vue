@@ -7,9 +7,9 @@
                 <div class="col-md-6 order-last order-md-2">
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- Section ID -->
-                        <span class="section-id">Easy Integration</span>
+                        <span class="section-id">Finding a university is easy</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Plug your essential tools in few clicks</h2>
+                        <h2 class="s-46 w-700">APPLY TO YOUR <br> DREAM UNIVERSITY</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">

@@ -20,12 +20,12 @@
                         <div class="fbox-5 fb-1 bg--white-400 r-16 wow fadeInUp">
                             <!-- Text -->
                             <div class="fbox-txt order-last order-md-2">
-                                <h5 class="s-26 w-700">Build Your Future with AI + Community</h5>
-                                <p>AI-powered recommendations and a thriving student community.</p>
+                                <h5 class="s-26 w-700">AI-powered recommendations</h5>
+                                <p>AI-powered recommendations.</p>
                             </div>
                             <!-- Image -->
                             <div class="fbox-5-img order-first order-md-2">
-                                <img class="img-fluid" src="/assets/images/f_06.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-ai.png" alt="feature-image" />
                             </div>
                         </div>
                     </div>
@@ -35,12 +35,12 @@
                         <div class="fbox-5 fb-2 bg--white-400 r-16 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-5-img">
-                                <img class="img-fluid" src="/assets/images/f_04.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-commu.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h5 class="s-26 w-700">Enhance Engagement</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <h5 class="s-26 w-700">community</h5>
+                                <p>a thriving student community.</p>
                             </div>
                         </div>
                     </div>
