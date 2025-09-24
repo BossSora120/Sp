@@ -67,14 +67,16 @@ watch(route, (newRoute) => {
 })
 
 // toggle ภาษา
-const toggleLang = () => {
-  if (currentLang.value === 'en') router.push('/th')
-  else router.push('/')
+const toggleLang = async () => {
+  const target = currentLang.value === 'en' ? '/th' : '/';
+  await router.push(target);   // รอให้ navigation เสร็จ
+  window.location.reload();    // ค่อยรีโหลด (ถ้าจำเป็นจริงๆ)
 }
 </script>
 
 <style scoped>
 .lang-toggle {
+  position: absolute;
   background: #0a00ce;
   color: #1b263b;
   border: none;
@@ -82,5 +84,7 @@ const toggleLang = () => {
   padding: 0.3rem 0.8rem;
   cursor: pointer;
   font-weight: bold;
+  top: 50%;
+  transform: translateY(-50%);
 }
 </style>

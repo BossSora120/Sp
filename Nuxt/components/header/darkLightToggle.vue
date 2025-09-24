@@ -5,7 +5,9 @@
         <img class="img-light" src="/assets/images/icons/light.svg" alt="dark" />
         <img class="img-light-black" src="/assets/images/icons/light-black.svg" alt="dark" />
     </span>
+    
 </template>
+
 <script>
 export default {
     methods: {

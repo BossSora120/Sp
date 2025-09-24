@@ -1,5 +1,5 @@
 <template>
-  <div id="main-menu" class="wsmainfull menu clearfix">
+  <div id="main-menu" class="wsmainfull menu clearfix menu-th">
     <div class="wsmainwp flex-header-row">
 
       <!-- LOGO -->
@@ -10,7 +10,7 @@
       </div>
       <!-- MAIN MENU + SIGNUP BUTTON -->
       <nav class="wsmenu clearfix menu-flex-row">
-        <ul class="wsmenu-list nav-theme">
+        <ul class="wsmenu-list nav-theme wsmenu-list-th">
           <li class="nl-simple"><NuxtLink to="/th/demo-6" class="h-link">หน้าแรก</NuxtLink></li>
           <li class="nl-simple"><NuxtLink to="/th/about" class="h-link">เกี่ยวกับเรา</NuxtLink></li>
           <li class="nl-simple"><NuxtLink to="/th/features" class="h-link">คุณสมบัติ</NuxtLink></li>
@@ -99,5 +99,13 @@ const toggleLang = () => {
   padding: 0.3rem 0.8rem;
   cursor: pointer;
   font-weight: bold;
+}
+
+.wsmenu-list-th{
+  gap: 0;
+}
+
+.nl-simple{
+  background-color: #0a00ce;
 }
 </style>
