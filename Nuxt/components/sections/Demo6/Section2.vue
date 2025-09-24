@@ -16,7 +16,7 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Porta justo integer and velna vitae auctor</p>
+                                    <p class="p-md">Portfolios Created</p>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Ligula magna suscipit vitae and rutrum</p>
+                                    <p class="p-md">Improved Admission Success</p>
                                 </div>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                                 </div>
                                 <!-- Text -->
                                 <div class="statistic-block-txt color--grey">
-                                    <p class="p-md">Sagittis congue augue egestas an egestas</p>
+                                    <p class="p-md">Scholarships & Opportunities</p>
                                 </div>
                             </div>
                         </div>
