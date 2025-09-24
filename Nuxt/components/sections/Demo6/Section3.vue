@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Enhance your workflow and improve your productivity</h2>
+                        <h2 class="s-50 w-700">Get More Done in Less Time</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">Save hours of effort by centralizing everything in one platform.</p>
                     </div>
                 </div>
             </div>

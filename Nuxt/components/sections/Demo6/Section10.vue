@@ -1,19 +1,18 @@
 <template>
     <section id="features-13" class="shape--bg shape--white-500 pt-100 features-section division">
         <div class="container">
-            <div class="row d-flex align-items-center">
+            <div class="row features-main">
                 <!-- FEATURES-13 WRAPPER -->
-                <div class="col-md-7 order-last order-md-2">
-                    <div class="fbox-13-wrapper wow fadeInRight">
+                <div class="section-icon-wrapper">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="features-icon-section">
                                 <!-- FEATURE BOX #1 -->
-                                <div id="fb-12-1" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+                                <div id="fb-12-1" class="fbox-12 bg--white-100 block-shadow r-12 mb-30 fbox-ico-wrapper">
                                     <!-- Icon -->
-                                    <div class="fbox-ico ico-55">
+                                    <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
                                             <!-- Vector Icon -->
-                                            <span class="flaticon-graphics"></span>
+                                            <span class="flaticon-layers-1"></span>
                                             <!-- Shape -->
                                             <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -23,17 +22,17 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Market Research</h5>
+                                        <h5 class="s-20 w-700">Marketing Integrations </h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
-                                <div id="fb-12-2" class="fbox-12 bg--white-100 block-shadow r-12">
+                                <div id="fb-12-2" class="fbox-12 bg--white-100 block-shadow r-12 fbox-ico-wrapper">
                                     <!-- Icon -->
-                                    <div class="fbox-ico ico-55">
+                                    <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
                                             <!-- Vector Icon -->
-                                            <span class="flaticon-idea"></span>
+                                            <span class="flaticon-click-1"></span>
                                             <!-- Shape -->
                                             <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -43,19 +42,17 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">User Experience</h5>
+                                        <h5 class="s-20 w-700">Intuitive Dashboard </h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
                                 <!-- FEATURE BOX #3 -->
-                                <div id="fb-12-3" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
+                                <div id="fb-12-3" class="fbox-12 bg--white-100 block-shadow r-12 mb-30 fbox-ico-wrapper">
                                     <!-- Icon -->
-                                    <div class="fbox-ico ico-55">
+                                    <div class="fbox-ico ico-50">
                                         <div class="shape-ico color--theme">
                                             <!-- Vector Icon -->
-                                            <span class="flaticon-graphic"></span>
+                                            <span class="flaticon-analytics"></span>
                                             <!-- Shape -->
                                             <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -65,33 +62,12 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Digital Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
-                                    </div>
-                                </div>
-                                <!-- FEATURE BOX #4 -->
-                                <div id="fb-12-4" class="fbox-12 bg--white-100 block-shadow r-12">
-                                    <!-- Icon -->
-                                    <div class="fbox-ico ico-55">
-                                        <div class="shape-ico color--theme">
-                                            <!-- Vector Icon -->
-                                            <span class="flaticon-search-engine-1"></span>
-                                            <!-- Shape -->
-                                            <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                            </svg>
-                                        </div>
-                                    </div>
-                                    <!-- End Icon -->
-                                    <!-- Text -->
-                                    <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">SEO Services</h5>
+                                        <h5 class="s-20 w-700">Real-time analytics</h5>
                                         <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                     <!-- End row -->
                 </div>
                 <!-- END FEATURES-13 WRAPPER -->
@@ -101,18 +77,7 @@
                         <!-- Section ID -->
                         <span class="section-id">One-Stop Solution</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Smart solutions, real-time results</h2>
-                        <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum and congue undo laoreet turpis neque auctor turpis vitae dolor luctus placerat magna ligula and cursus vitae</p>
-                        <!-- List -->
-                        <ul class="simple-list">
-                            <li class="list-item">
-                                <p>Tempor sapien quaerat undo ipsum laoreet diam purus sapien a dolor ociis ultrice ipsum aliquam congue a dolor cursus congue varius magnis</p>
-                            </li>
-                            <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis diam volute egestas sapien ultrice auctor</p>
-                            </li>
-                        </ul>
+                        <h2 class="s-46 features-title">One Platform, Endless Possibilities</h2>
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->
@@ -122,3 +87,41 @@
         <!-- End container -->
     </section>
 </template>
+
+<style scoped>
+.features-main{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 30px;
+}
+
+.features-title{
+    width: 1000px;
+}
+
+.features-icon-section {
+    display: flex;
+    width: 100%;
+    padding: 0;
+    padding-left: 240px;
+    gap: 20px;
+}
+
+.fadeInRight{
+    background: red;
+    width: 100%;
+}
+
+#features-13.pt-100.shape--bg:after{
+    max-width: 1483px;
+    width: 82%;
+    height: 82%;
+    top: 23%;
+    border-bottom-right-radius: 40px;
+}
+
+.fbox-ico-wrapper{
+    width: 340px;
+    height: 290px;
+}
+</style>
