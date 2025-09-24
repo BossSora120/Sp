@@ -9,13 +9,13 @@
                         <div class="col">
                             <div class="banner-1-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-45 w-700">Ready to Get Started?</h2>
+                                <h2 class="s-45 w-700">พร้อมที่จะเริ่มต้นหรือยัง?</h2>
                                 <!-- Text -->
-                                <p class="p-xl">It only takes a few clicks to get started</p>
+                                <p class="p-xl">เพียงไม่กี่คลิกก็เริ่มต้นเส้นทางการเรียนต่อได้แล้ว</p>
                                 <!-- Button -->
-                                <a href="#" class="btn r-04 btn--theme hover--tra-white" data-bs-toggle="modal" data-bs-target="#modal-3">Get srarted - it's free </a>
+                                <a href="#" class="btn r-04 btn--theme hover--tra-white" data-bs-toggle="modal" data-bs-target="#modal-3">เริ่มต้นใช้งาน - ฟรี </a>
                                 <!-- Button Text -->
-                                <p class="p-sm btn-txt ico-15 o-85"><span class="flaticon-check"></span> Free for 14 days, no credit card required.</p>
+                                
                             </div>
                         </div>
                         <!-- END BANNER-1 TEXT -->

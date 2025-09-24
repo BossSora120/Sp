@@ -20,7 +20,7 @@
                         <div class="fbox-2 fb-1 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_01.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-1.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
@@ -50,7 +50,7 @@
                         <div class="fbox-2 fb-3 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_02.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-3.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">

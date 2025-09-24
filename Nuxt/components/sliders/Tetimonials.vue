@@ -20,7 +20,7 @@
                     <!-- Text -->
                     <div class="review-txt">
                         <!-- Text -->
-                        <p>Etiam sapien sagittis congue augue a massa varius egestas ultrice varius magna a tempus aliquet undo cursus suscipit</p>
+                        <p>EduConnext ทำให้การสมัคร TCAS ง่ายขึ้นมาก และได้ทุนที่ใช่จริง ๆ</p>
                         <!-- Author -->
                         <div class="author-data clearfix">
                             <!-- Avatar -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">Scott Boxer</h6>
-                                <p class="p-sm">@scott_boxer</p>
+                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข1</h6>
+                                <p class="p-sm">@นักเรียน</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -45,7 +45,7 @@
                     <!-- Text -->
                     <div class="review-txt">
                         <!-- Text -->
-                        <p>At sagittis congue augue diam egestas magna an ipsum vitae purus ipsum primis and cubilia laoreet augue egestas a luctus donec ltrice ligula porta augue magna suscipit lectus gestas</p>
+                        <p>EduConnext simplified portfolio review for my students. Very effective.</p>
                         <!-- Author -->
                         <div class="author-data clearfix">
                             <!-- Avatar -->
@@ -54,8 +54,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">Joel Peterson</h6>
-                                <p class="p-sm">Internet Surfer</p>
+                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข2</h6>
+                                <p class="p-sm">@ครูทั่วไป</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -70,7 +70,7 @@
                     <!-- Text -->
                     <div class="review-txt">
                         <!-- Text -->
-                        <p>Mauris gestas magnis a sapien etiam sapien congue an augue egestas and ultrice vitae purus diam an integer congue magna ligula egestas magna suscipit</p>
+                        <p>EduConnext ทำให้การทำ Portfolio และการสมัคร TCAS ง่ายขึ้นมาก</p>
                         <!-- Author -->
                         <div class="author-data clearfix">
                             <!-- Avatar -->
@@ -79,8 +79,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">Marisol19</h6>
-                                <p class="p-sm">@marisol19</p>
+                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข3</h6>
+                                <p class="p-sm">@นักศึกษา</p>
                             </div>
                         </div>
                         <!-- End Author -->

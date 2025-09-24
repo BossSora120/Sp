@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Reach your audience through social media marketing</h2>
+                        <h2 class="s-50 w-700">Build Your Future with AI + Community</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">AI ช่วยแนะนำคณะ/ทุน พร้อม Community ให้นักเรียนแชร์ประสบการณ์</p>
                     </div>
                 </div>
             </div>
@@ -20,12 +20,12 @@
                         <div class="fbox-5 fb-1 bg--white-400 r-16 wow fadeInUp">
                             <!-- Text -->
                             <div class="fbox-txt order-last order-md-2">
-                                <h5 class="s-26 w-700">Marketing Integrations</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <h5 class="s-26 w-700">AI ช่วยแนะนำคณะ/ทุน</h5>
+                                <p>AI ช่วยแนะนำคณะ/ทุน</p>
                             </div>
                             <!-- Image -->
                             <div class="fbox-5-img order-first order-md-2">
-                                <img class="img-fluid" src="/assets/images/f_06.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-ai.png" alt="feature-image" />
                             </div>
                         </div>
                     </div>
@@ -35,12 +35,12 @@
                         <div class="fbox-5 fb-2 bg--white-400 r-16 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-5-img">
-                                <img class="img-fluid" src="/assets/images/f_04.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-commu.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h5 class="s-26 w-700">Enhance Engagement</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <h5 class="s-26 w-700">community</h5>
+                                <p>Community ให้นักเรียนแชร์ประสบการณ์</p>
                             </div>
                         </div>
                     </div>
