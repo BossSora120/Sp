@@ -8,7 +8,7 @@
                         <!-- Title -->
                         <h2 class="s-50 w-700">The Complete Solutions</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey"></p>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <p>ใช้งานง่าย </p>
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Marketing Integrations</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <p>รองรับเครื่องมือสื่อสาร </p>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Engagement Analysis</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <p>วิเคราะห์ผลตอบรับ </p>
                             </div>
                         </div>
                     </div>
