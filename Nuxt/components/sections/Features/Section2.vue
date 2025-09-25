@@ -35,7 +35,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Portfolio Builder</h6>
-                                <p>สร้างพอร์ตดิจิทัลมาตรฐาน พร้อม Export PDF ได้ทันที</p>
+                                <p>Build a professional digital portfolio and export to PDF instantly.</p>
                             </div>
                         </div>
                     </div>
@@ -43,31 +43,6 @@
                     <!-- FEATURE BOX #2 -->
                     <div class="col">
                         <div class="fbox-11 fb-2 wow fadeInUp">
-                            <!-- Icon -->
-                            <div class="fbox-ico-wrap">
-                                <div class="fbox-ico ico-50">
-                                    <div class="shape-ico color--theme">
-                                        <!-- Vector Icon -->
-                                        <span class="flaticon-idea"></span>
-                                        <!-- Shape -->
-                                        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
-                                        </svg>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Icon -->
-                            <!-- Text -->
-                            <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Career & Internship</h6>
-                                <p>เปิดโอกาสหางาน ฝึกงาน และ Work & Travel สำหรับนักศึกษาและบัณฑิตใหม่</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END FEATURE BOX #2 -->
-                    <!-- FEATURE BOX #3 -->
-                    <div class="col">
-                        <div class="fbox-11 fb-3 wow fadeInUp">
                             <!-- Icon -->
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
@@ -84,15 +59,15 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">University Application (TCAS/MOU)</h6>
-                                <p>สมัครมหาวิทยาลัยตรงผ่าน EduConnext มหาวิทยาลัยเข้าดูและคัดเลือกได้ทันที</p>
+                                <h6 class="s-22 w-700">Career & Internship</h6>
+                                <p>Access jobs, internships, and work & travel programs tailored for students and graduates.</p>
                             </div>
                         </div>
                     </div>
-                    <!-- END FEATURE BOX #3 -->
-                    <!-- FEATURE BOX #4 -->
+                    <!-- END FEATURE BOX #2 -->
+                    <!-- FEATURE BOX #3 -->
                     <div class="col">
-                        <div class="fbox-11 fb-4 wow fadeInUp">
+                        <div class="fbox-11 fb-3 wow fadeInUp">
                             <!-- Icon -->
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
@@ -109,8 +84,33 @@
                             <!-- End Icon -->
                             <!-- Text -->
                             <div class="fbox-txt">
+                                <h6 class="s-22 w-700">University Application (TCAS/MOU)</h6>
+                                <p>Apply directly to universities via EduConnext. Institutions can review and select applicants instantly.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END FEATURE BOX #3 -->
+                    <!-- FEATURE BOX #4 -->
+                    <div class="col">
+                        <div class="fbox-11 fb-4 wow fadeInUp">
+                            <!-- Icon -->
+                            <div class="fbox-ico-wrap">
+                                <div class="fbox-ico ico-50">
+                                    <div class="shape-ico color--theme">
+                                        <!-- Vector Icon -->
+                                        <span class="flaticon-idea"></span>
+                                        <!-- Shape -->
+                                        <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Icon -->
+                            <!-- Text -->
+                            <div class="fbox-txt">
                                 <h6 class="s-22 w-700">AI Recommendation</h6>
-                                <p>AI วิเคราะห์โปรไฟล์และแนะนำเส้นทางการศึกษาและอาชีพที่เหมาะสม</p>
+                                <p>AI analyzes your profile and suggests the best-fit education and career pathways.</p>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Scholarships & Exchange</h6>
-                                <p>ค้นหาทุนการศึกษาและโครงการแลกเปลี่ยน พร้อมระบบ AI แนะนำทุนที่เหมาะสม</p>
+                                <p>Discover scholarships and exchange programs with AI-powered recommendations.</p>
                             </div>
                         </div>
                     </div>

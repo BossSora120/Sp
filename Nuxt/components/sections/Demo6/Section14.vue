@@ -13,7 +13,7 @@
                 </div>
             </div>
             <!-- INTEGRATIONS-1 WRAPPER -->
-            <div class="integrations-1-wrapper">
+            <div class="integrations-1-wrapper home-integrations-1-wrapper">
                 <div class="row row-cols-1 row-cols-md-3 row-cols-lg-2 rows-2">
                     <!-- TOOL #1 -->
                     <div class="col">
@@ -27,7 +27,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Zapier</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Automate workflows</p>
                             </div>
                         </a>
                     </div>
@@ -44,7 +44,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Analytics</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Insights & reports</p>
                             </div>
                         </a>
                     </div>
@@ -61,7 +61,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Hubspot</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Manage relationships</p>
                             </div>
                         </a>
                     </div>
@@ -78,7 +78,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">MailChimp</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Campaigns & updates</p>
                             </div>
                         </a>
                     </div>
@@ -95,7 +95,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Slack</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Team communication</p>
                             </div>
                         </a>
                     </div>
@@ -112,7 +112,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Drive</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Portfolio files</p>
                             </div>
                         </a>
                     </div>
@@ -139,7 +139,7 @@
         flex-direction: column;
         align-items: center;
     }
-    .integrations-1-wrapper{
+    .home-integrations-1-wrapper{
         width: 800px;
     }
 </style>

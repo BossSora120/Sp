@@ -7,16 +7,21 @@
                         <!-- TEXT BLOCK -->
                         <div class="col-md-6 order-last order-md-2">
                             <div class="txt-block left-column wow fadeInRight">
-                                <!-- Section ID -->
-                                <span class="section-id">Enhance Engagement</span>
                                 <!-- Title -->
-                                <h2 class="s-46 w-700">Automate your way to success</h2>
+                                <h2 class="s-46 w-700">The Smarter Way to Learn and Work</h2>
                                 <!-- Text -->
-                                <p>Sodales tempor sapien quaerat congue eget ipsum laoreet turpis neque auctor vitae eros dolor luctus placerat magna ligula cursus and purus pretium</p>
-                                <!-- Small Title -->
-                                <h5 class="s-24 w-700 h5-title">The smarter way to work</h5>
-                                <!-- Text -->
-                                <p class="mb-0">Sapien tempor sodales quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae</p>
+                                <span class="section-id">A smarter, measurable way to progress through learning and career planning.</span>
+                                <!-- List -->
+                                <ul class="simple-list">
+                                    <li class="list-item">
+                                        <h5 class="s-24 w-700 h5-title">Enhance Engagement</h5>
+                                        <p>Community + Dashboard enabling students, teachers, and universities to collaborate seamlessly.</p>
+                                    </li>
+                                    <li class="list-item">
+                                        <h5 class="s-24 w-700 h5-title">Automate Your Way to Success</h5>
+                                        <p class="mb-0">Manage applications, scholarships, and activities all in one synced calendar.</p>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                         <!-- END TEXT BLOCK -->

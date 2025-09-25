@@ -4,9 +4,9 @@
             <!-- SECTION TITLE -->
             <div class="row justify-content-center">
                 <div class="col-md-10 col-lg-9">
-                    <div class="section-title mb-80">
+                    <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Everything in One Place</h2>
+                        <h2 class="s-50 w-700">The Complete Solutions</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
@@ -20,12 +20,12 @@
                         <div class="fbox-2 fb-1 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_01.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-1.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Intuitive Dashboard</h6>
-                                <p>Luctus egestas augue undo ultrice aliquam in lacus congue dapibus</p>
+                                <p>Easy to use</p>
                             </div>
                         </div>
                     </div>
@@ -39,8 +39,8 @@
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Effortless Integration</h6>
-                                <p>Tempor laoreet augue undo ultrice aliquam in lacusq luctus feugiat</p>
+                                <h6 class="s-22 w-700">Marketing Integrations</h6>
+                                <p>Works with your tools</p>
                             </div>
                         </div>
                     </div>
@@ -50,21 +50,32 @@
                         <div class="fbox-2 fb-3 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-img gr--whitesmoke h-175">
-                                <img class="img-fluid" src="/assets/images/f_02.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-3.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h6 class="s-22 w-700">Real-time Analytics</h6>
-                                <p>Egestas luctus augue undo ultrice aliquam in lacus feugiat cursus</p>
+                                <h6 class="s-22 w-700">Engagement Analysis</h6>
+                                <p>Real-time analytics</p>
                             </div>
                         </div>
                     </div>
                     <!-- END FEATURE BOX #3 -->
                 </div>
                 <!-- End row -->
-            </div>
+                 <a href="#banner-1" 
+                                    class="btn r-04 btn--theme hover--theme space wow fadeInUp" 
+                                    style="flex: 1 1 250px; min-width: 250px; text-align: center;">
+                                    Explore All Features
+                                </a>
+                 </div>
             <!-- END FEATURES-2 WRAPPER -->
         </div>
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .space{
+        margin: 20px;
+    }
+</style>
