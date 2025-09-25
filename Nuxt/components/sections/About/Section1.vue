@@ -6,9 +6,9 @@
                 <div class="col-md-11 col-lg-10 col-xl-9">
                     <div class="about-2-title mb-60">
                         <!-- Title -->
-                        <h2 class="s-52 w-700 mb-30">สร้างโอกาสการศึกษาอย่างเท่าเทียมสำหรับนักเรียนทุกคน</h2>
+                        <h2 class="s-52 w-700 mb-30">Creating Equal Education Opportunities for Everyone</h2>
                         <!-- Text -->
-                        <p class="mb-0">EduConnext มุ่งมั่นช่วยให้นักเรียน นักศึกษา และครอบครัว เข้าถึงข้อมูล การแนะแนว และโอกาสด้านการศึกษา-อาชีพ ผ่านแพลตฟอร์มที่ใช้ AI และชุมชนเป็นตัวขับเคลื่อน</p>
+                        <p class="mb-0">Our mission is to empower students, educators, and families with access to personalized guidance and education opportunities, powered by AI and community collaboration.</p>
                     </div>
                 </div>
             </div>

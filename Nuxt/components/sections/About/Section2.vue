@@ -9,18 +9,18 @@
                     <h5 class="s-24 w-700 mb-20">Mission and Impact</h5>
 
                     <!-- Text -->
-                    <p>เป็นสะพานเชื่อมนักเรียน โรงเรียน มหาวิทยาลัย และโอกาสการทำงาน ด้วยแพลตฟอร์มเดียว</p>
+                    <p>To be the bridge connecting students, schools, universities, and career opportunities in one seamless platform.</p>
 
                     <!-- List -->
                     <ul class="simple-list">
                         <li class="list-item">
-                        <p>นักเรียน — สร้าง Portfolio ออนไลน์ ด้วยผลงานและโครงงาน ดูข้อมูลศึกษาต่อที่สนใจผ่านระบบ</p>
+                        <p>student — Create an online portfolio with your work and projects. View information about your desired studies through the system.</p>
                         </li>
                         <li class="list-item">
-                        <p>ผู้ปกครอง — ดูผลงานและโครงงานของลูก ตรวจสอบผลงานและรางวัล รวมถึงความสนใจในการศึกษาต่อ</p>
+                        <p>parent — View your child's work and projects, check their achievements and awards, and see their interest in further education.</p>
                         </li>
                         <li class="list-item">
-                        <p class="mb-0">ครูทั่วไป/ครูที่ปรึกษา — สร้าง Portfolio ออนไลน์ ตรวจสอบและติดตามความก้าวหน้าของนักเรียน</p>
+                        <p class="mb-0">General Teacher/Advisor — Create an online portfolio, check and track student progress.</p>
                         </li>
                     </ul>
                     </div>
@@ -37,13 +37,13 @@
                     <!-- List -->
                     <ul class="simple-list mp-0" style="margin-top: 34px;">
                         <li class="list-item">
-                        <p>ครูโครงงาน — รวบรวมข้อมูลโครงงาน/งานวิจัย และติดตามการทำงานของนักเรียนแต่ละโครงงาน</p>
+                        <p>project teacher — Collect project/research data and follow up on student work on each project.</p>
                         </li>
                         <li class="list-item">
-                        <p>ครูประจำชั้น — ตรวจสอบและอนุมัติผลงานของนักเรียนในชั้น รวมถึงการติดตามรางวัลที่ได้รับ</p>
+                        <p>Homeroom teacher — Review and approve student work in the class, including tracking awards received.</p>
                         </li>
                         <li class="list-item">
-                        <p class="mb-0">ฝ่ายแนะแนว — เผยแพร่ข้อมูลการศึกษาต่อ และรวบรวมทุนการศึกษาทั้งในและต่างประเทศ</p>
+                        <p class="mb-0">Guidance Department — Disseminate information on further education and collect scholarships both domestically and internationally.</p>
                         </li>
                     </ul>
                     </div>

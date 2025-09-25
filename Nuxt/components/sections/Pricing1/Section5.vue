@@ -9,9 +9,7 @@
                         <div class="col">
                             <div class="banner-1-txt color--white">
                                 <!-- Title -->
-                                <h2 class="s-45 w-700">Give it a try, it's free!</h2>
-                                <!-- Text -->
-                                <p class="p-xl">It only takes a few clicks to get started</p>
+                                <h2 class="s-45 w-700">Ready to get started with "EduConnext"</h2>
                                 <!-- Button -->
                                 <NuxtLink to="/signup-1" class="btn r-04 btn--theme hover--tra-white">Get srarted - it's free </NuxtLink>
                                 <!-- Button Text -->

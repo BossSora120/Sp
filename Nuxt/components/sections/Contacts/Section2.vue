@@ -6,7 +6,7 @@
                     <!-- NEWSLETTER TEXT -->
                     <div class="col">
                         <div class="newsletter-txt">
-                            <h4 class="s-34 w-700">Stay up to date with our news, ideas and updates</h4>
+                            <h4 class="s-34 w-700">Stay up to date with our news and updates</h4>
                         </div>
                     </div>
                     <!-- NEWSLETTER FORM -->

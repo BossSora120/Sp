@@ -6,7 +6,8 @@
                 <div class="col-md-10 col-lg-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Simple, Flexible Pricing</h2>
+                        <h2 class="s-52 w-700">Choose the Plan That Fits You</h2>
+                        <span class="toggler-txt">Whether you’re a student, teacher, or university, EduConnext has a plan tailored for you.</span>
                         <!-- TOGGLE BUTTON -->
                         <div class="toggle-btn ext-toggle-btn toggle-btn-md mt-30">
                             <span class="toggler-txt">Billed monthly</span>
@@ -50,13 +51,13 @@
                             <!-- PRICING FEATURES -->
                             <ul class="pricing-features color--black ico-10 ico--green mt-25">
                                 <li>
-                                    <p><span class="flaticon-check"></span> สมัครมหาลัย (จำกัด 3 ครั้ง)</p>
+                                    <p><span class="flaticon-check"></span> Apply to universities (3 submissions)</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> สร้าง Portfolio ออนไลน์</p>
+                                    <p><span class="flaticon-check"></span> Online Portfolio Builder</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> Export PDF</p>
+                                    <p><span class="flaticon-check"></span> Export PDF Portfolio</p>
                                 </li>
                                 
                             </ul>
@@ -103,7 +104,7 @@
                                     <p><span class="flaticon-check"></span>Analytics Report</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> Dashboard นักเรียน</p>
+                                    <p><span class="flaticon-check"></span> Unlimited Portfolio Review</p>
                                 </li>
                                 <li>
                                     <p><span class="flaticon-check"></span> Portfolio Review ไม่จำกัด </p>

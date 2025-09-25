@@ -23,7 +23,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Quaerat sodales sapien euismod blandit aliquet ipsum primis undo and cubilia laoreet augue and luctus magna dolor luctus egestas sapien vitae</p>
+                                <p>EduConnext makes it much easier to apply for TCAS and get the right scholarship.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -32,8 +32,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Scott Boxer</h6>
-                                        <p class="p-sm">@scott_boxer</p>
+                                        <h6 class="s-18 w-700">User number 1</h6>
+                                        <p class="p-sm">@collegian</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -50,7 +50,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>At sagittis congue augue and magna ipsum vitae a purus ipsum primis diam a cubilia laoreet augue egestas luctus a donec vitae ultrice ligula magna suscipit lectus gestas augue into cubilia</p>
+                                <p>EduConnext makes creating a portfolio and applying for TCAS much easier.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -59,8 +59,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Joel Peterson</h6>
-                                        <p class="p-sm">Internet Surfer</p>
+                                        <h6 class="s-18 w-700">User number 2</h6>
+                                        <p class="p-sm">@student</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -77,7 +77,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>An augue cubilia laoreet magna suscipit egestas and ipsum a lectus purus ipsum primis and augue ultrice ligula and egestas a suscipit lectus gestas undo auctor tempus feugiat impedit quaerat</p>
+                                <p>EduConnext simplified portfolio review for my students. Very effective.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -86,8 +86,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Jennifer Harper</h6>
-                                        <p class="p-sm">App Developer</p>
+                                        <h6 class="s-18 w-700">User number 3</h6>
+                                        <p class="p-sm">@parent</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->
@@ -104,7 +104,7 @@
                             <!-- Text -->
                             <div class="review-txt">
                                 <!-- Text -->
-                                <p>Augue at vitae purus tempus egestas volutpat augue undo cubilia laoreet magna suscipit luctus dolor blandit at purus tempus feugiat impedit</p>
+                                <p>As a parent, I can track my child's progress every step of the way.</p>
                                 <!-- Author -->
                                 <div class="author-data clearfix">
                                     <!-- Avatar -->
@@ -113,8 +113,8 @@
                                     </div>
                                     <!-- Data -->
                                     <div class="review-author">
-                                        <h6 class="s-18 w-700">Evelyn Martinez</h6>
-                                        <p class="p-sm">WordPress Consultant</p>
+                                        <h6 class="s-18 w-700">User number 4</h6>
+                                        <p class="p-sm">@Guidance teacher</p>
                                     </div>
                                 </div>
                                 <!-- End Author -->

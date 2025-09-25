@@ -8,7 +8,6 @@
         <SectionsAboutSection6 />
         <SectionsAboutSection7 />
         <SectionsAboutSection8 />
-        <SectionsAboutSection9 />
         <SectionsAboutSection10 />
         <SectionsAboutSection11 />
         <SectionsAboutSection12 />

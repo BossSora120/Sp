@@ -7,6 +7,7 @@
                     <div class="section-title mb-70">
                         <!-- Title -->
                         <h2 class="s-52 w-700">แพ็คเกจที่เรียบง่ายและยืดหยุ่น</h2>
+                        <span class="toggler-txt">ไม่ว่าคุณจะเป็นนักเรียน ครู หรือมหาวิทยาลัย EduConnext มีแพ็กเกจที่ตอบโจทย์ทุกความต้องการ</span>
                         <!-- TOGGLE BUTTON -->
                         <div class="toggle-btn ext-toggle-btn toggle-btn-md mt-30">
                             <span class="toggler-txt">รายเดือน</span>

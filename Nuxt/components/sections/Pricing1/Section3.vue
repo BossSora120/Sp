@@ -29,19 +29,19 @@
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <th scope="row" class="text-start">สมัครมหาลัย</th>
-                                        <td class="color--black">3 ครั้ง</td>
-                                        <td class="color--black"> _ครั้ง</td>
-                                        <td class="color--black">ไม่จำกัด</td>
+                                        <th scope="row" class="text-start">Apply to universities </th>
+                                        <td class="color--black">3 times</td>
+                                        <td class="color--black"> _times</td>
+                                        <td class="color--black">unlimited</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">สร้าง Portfolio ออนไลน์</th>
+                                        <th scope="row" class="text-start">Online Portfolio Builder</th>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Export PDF</th>
+                                        <th scope="row" class="text-start">Export PDF Portfolio</th>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
@@ -53,13 +53,13 @@
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Dashboard นักเรียน</th>
+                                        <th scope="row" class="text-start">Student Dashboard</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Portfolio Review ไม่จำกัด</th>
+                                        <th scope="row" class="text-start">Unlimited Portfolio Review</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
@@ -121,7 +121,7 @@
                             <!-- Title -->
                             <h6 class="s-18 w-700">Money Back Guarantee</h6>
                             <!-- Text -->
-                            <p>Explore Martex Premium for 14 days. If it’s not a perfect fit, receive a full refund.</p>
+                            <p>Try EduConnext Premium for 14 days. If it’s not a perfect fit, receive a full refund.</p>
                         </div>
                     </div>
                     <!-- Payment Encrypted -->
@@ -130,7 +130,7 @@
                             <!-- Title -->
                             <h6 class="s-18 w-700">SSL Encrypted Payment</h6>
                             <!-- Text -->
-                            <p>Your information is protected by 256-bit SSL encryption.</p>
+                            <p>Your payment information is protected by 256-bit SSL encryption.</p>
                         </div>
                     </div>
                 </div>
