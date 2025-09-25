@@ -17,16 +17,13 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/about"></NuxtLink></p>
+                                <p><NuxtLink to="/">Home</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/blog-listing">About Us</NuxtLink></p>
+                                <p><NuxtLink to="/about">About</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/reviews">Customers</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><a href="#">Community</a></p>
+                                <p><NuxtLink to="/contacts">Contacts</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
@@ -40,16 +37,10 @@
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/features">Integration</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/download">What's New</NuxtLink></p>
-                            </li>
-                            <li>
                                 <p><NuxtLink to="/pricing-1">Pricing</NuxtLink></p>
                             </li>
                             <li>
-                                <p><NuxtLink to="/help-center">Help Center</NuxtLink></p>
+                                <p><NuxtLink to="/features">Features</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
@@ -70,9 +61,6 @@
                             </li>
                             <li>
                                 <p><NuxtLink to="/cookies">Cookie Policy</NuxtLink></p>
-                            </li>
-                            <li>
-                                <p><NuxtLink to="/cookies">Site Map</NuxtLink></p>
                             </li>
                         </ul>
                     </div>
