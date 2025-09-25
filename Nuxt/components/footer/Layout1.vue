@@ -13,11 +13,11 @@
                 <div class="col-sm-4 col-lg-3 col-xl-2">
                     <div class="footer-links fl-1">
                         <!-- Title -->
-                        <h6 class="s-17 w-700">Company</h6>
+                        <h6 class="s-17 w-700">Links</h6>
                         <!-- Links -->
                         <ul class="foo-links clearfix">
                             <li>
-                                <p><NuxtLink to="/about">About Us</NuxtLink></p>
+                                <p><NuxtLink to="/about"></NuxtLink></p>
                             </li>
                             <li>
                                 <p><NuxtLink to="/blog-listing">About Us</NuxtLink></p>
