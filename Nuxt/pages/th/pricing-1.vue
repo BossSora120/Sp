@@ -1,10 +1,9 @@
 <template>
     <div>
-        <SectionsPricing1Section1 />
-        <SectionsPricing1Section2 />
-        <SectionsPricing1Section3 />
-        <SectionsPricing1Section4 />
-        <SectionsPricing1Section5 />
+        <SectionsPricing1ThSection1 />
+        <SectionsPricing1ThSection3 />
+        <SectionsPricing1ThSection4 />
+        <SectionsPricing1ThSection5 />
     </div>
 </template>
 <script setup>

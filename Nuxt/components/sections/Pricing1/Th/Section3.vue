@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Compare Our Plans</h2>
+                        <h2 class="s-52 w-700">เปรียบเทียบแผนของเรา</h2>
                         <!-- Text -->
-                        <p class="p-xl">Complete list of features available in our pricing plans</p>
+                        <p class="p-xl">รายการคุณสมบัติทั้งหมดที่มีอยู่ในแผนราคาของเรา</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                                         <td class="color--black">ไม่จำกัด</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">สร้าง Portfolio ออนไลน์</th>
+                                        <th scope="row" class="text-start">สร้าง แฟ้มสะสมผลงาน ออนไลน์</th>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
@@ -47,13 +47,13 @@
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Analytics Report</th>
+                                        <th scope="row" class="text-start">รายงานการวิเคราะห์</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Dashboard นักเรียน</th>
+                                        <th scope="row" class="text-start">แดชบอร์ดนักเรียน</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
@@ -65,28 +65,28 @@
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">University Dashboard</th>
+                                        <th scope="row" class="text-start">แดชบอร์ดมหาวิทยาลัย</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">AI Screening Applicants</th>
+                                        <th scope="row" class="text-start">ผู้สมัครที่ผ่านการคัดกรองด้วย AI</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Direct Application Management</th>
+                                        <th scope="row" class="text-start">การจัดการแอปพลิเคชันโดยตรง</th>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-15 disabled-option"><span class="flaticon-cancel"></span></td>
                                         <td class="ico-20 color--theme"><span class="flaticon-check"></span></td>
                                     </tr>
                                     <tr>
-                                        <th scope="row" class="text-start">Customer Support</th>
-                                        <td class="color--black">Limited</td>
-                                        <td class="color--black">Basic</td>
-                                        <td class="color--black">Priority</td>
+                                        <th scope="row" class="text-start">ฝ่ายสนับสนุนลูกค้า</th>
+                                        <td class="color--black">จำกัดการใช้งาน</td>
+                                        <td class="color--black">พื้นฐาน</td>
+                                        <td class="color--black">สิทธิพิเศษ</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -97,14 +97,14 @@
             </div>
             <!-- END PRICING COMPARE -->
             <!-- PRICING COMPARE PAYMENT -->
-            <div class="comp-table-payment">
+            <!--div class="comp-table-payment">
                 <div class="row row-cols-1 row-cols-md-3">
-                    <!-- Payment Methods -->
+                    
                     <div class="col col-lg-5">
                         <div id="pbox-1" class="pbox mb-40 wow fadeInUp">
-                            <!-- Title -->
+                            
                             <h6 class="s-18 w-700">Accepted Payment Methods</h6>
-                            <!-- Payment Icons -->
+                            
                             <ul class="payment-icons ico-45 mt-25">
                                 <li><img src="/assets/images/png_icons/visa.png" alt="payment-icon" /></li>
                                 <li><img src="/assets/images/png_icons/am.png" alt="payment-icon" /></li>
@@ -115,27 +115,27 @@
                             </ul>
                         </div>
                     </div>
-                    <!-- Payment Guarantee -->
+                    
                     <div class="col col-lg-4">
                         <div id="pbox-2" class="pbox mb-40 wow fadeInUp">
-                            <!-- Title -->
+                            
                             <h6 class="s-18 w-700">Money Back Guarantee</h6>
-                            <!-- Text -->
+                            
                             <p>Explore Martex Premium for 14 days. If it’s not a perfect fit, receive a full refund.</p>
                         </div>
                     </div>
-                    <!-- Payment Encrypted -->
+                    
                     <div class="col col-lg-3">
                         <div id="pbox-3" class="pbox mb-40 wow fadeInUp">
-                            <!-- Title -->
+                            
                             <h6 class="s-18 w-700">SSL Encrypted Payment</h6>
-                            <!-- Text -->
+                            
                             <p>Your information is protected by 256-bit SSL encryption.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- END PRICING COMPARE PAYMENT -->
+            <! END PRICING COMPARE PAYMENT -->
         </div>
         <!-- End container -->
     </section>

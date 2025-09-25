@@ -6,10 +6,10 @@
                 <div class="col-md-10 col-lg-8">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-52 w-700">Simple, Flexible Pricing</h2>
+                        <h2 class="s-52 w-700">แพ็คเกจที่เรียบง่ายและยืดหยุ่น</h2>
                         <!-- TOGGLE BUTTON -->
                         <div class="toggle-btn ext-toggle-btn toggle-btn-md mt-30">
-                            <span class="toggler-txt">Billed monthly</span>
+                            <span class="toggler-txt">รายเดือน</span>
                             <label class="switch-wrap">
                                 <input type="checkbox" id="checbox" @change="togglePrices" />
                                 <span class="switcher bg--grey switcher--theme">
@@ -17,9 +17,9 @@
                                     <span class="show-monthly"></span>
                                 </span>
                             </label>
-                            <span class="toggler-txt">Billed yearly</span>
+                            <span class="toggler-txt">รายปี</span>
                             <!-- Text -->
-                            <p class="color--theme">Save up to 35% with yearly billing</p>
+                            <p class="color--theme">ประหยัดสูงสุด 35% ด้วยการเรียกเก็บเงินรายปี</p>
                         </div>
                     </div>
                 </div>
@@ -34,17 +34,17 @@
                             <!-- TABLE HEADER -->
                             <div class="pricing-table-header">
                                 <!-- Title -->
-                                <h5 class="s-24 w-700">Free Plan</h5>
+                                <h5 class="s-24 w-700">ฟรี</h5>
                                 <!-- Price -->
                                 <div class="price">
                                     <sup class="color--black">$</sup>
                                     <span class="color--black">0</span>
-                                    <sup class="validity color--grey">&nbsp;/&ensp;forever</sup>
-                                    <p class="color--grey">For professionals getting started with smaller projects.</p>
+                                    <sup class="validity color--grey">&nbsp;/&ensp;ตลอดการใช้งาน</sup>
+                                    <p class="color--grey">สำหรับมืออาชีพที่เริ่มต้นจากโปรเจ็กต์ขนาดเล็ก</p>
                                 </div>
                                 <!-- Button -->
-                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">Get srarted - it's free</a>
-                                <p class="p-sm btn-txt text-center color--grey">editcard required</p>
+                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">เริ่มต้นใช้งาน - ฟรี</a>
+                                <p class="p-sm btn-txt text-center color--grey">ไม่มีการเรียกเก็บเงิน</p>
                             </div>
                             <!-- END TABLE HEADER -->
                             <!-- PRICING FEATURES -->
@@ -53,7 +53,7 @@
                                     <p><span class="flaticon-check"></span> สมัครมหาลัย (จำกัด 3 ครั้ง)</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> สร้าง Portfolio ออนไลน์</p>
+                                    <p><span class="flaticon-check"></span> สร้าง แฟ้มสะสมผลงาน ออนไลน์</p>
                                 </li>
                                 <li>
                                     <p><span class="flaticon-check"></span> Export PDF</p>
@@ -69,44 +69,44 @@
                             <!-- TABLE HEADER -->
                             <div class="pricing-table-header">
                                 <!-- Title -->
-                                <h5 class="s-24">Pro (School/Teacher)</h5>
+                                <h5 class="s-24">โปร (โรงเรียน/คุณครู)</h5>
                                 <!-- Price -->
                                 <div class="price">
                                     <!-- Monthly Price -->
                                     <div class="price2" v-if="showPrice2">
                                         <sup class="color--black">$</sup>
                                         <span class="color--black">16.99</span>
-                                        <sup class="validity color--grey">&nbsp;/&ensp;mo</sup>
+                                        <sup class="validity color--grey">&nbsp;/&ensp;เดือน</sup>
                                     </div>
                                     <!-- Yearly Price -->
                                     <div class="price1" v-if="showPrice1">
                                         <sup class="color--black">$</sup>
                                         <span class="color--black">142.75</span>
-                                        <sup class="validity color--grey">&nbsp;/&ensp;yr</sup>
+                                        <sup class="validity color--grey">&nbsp;/&ensp;ปี</sup>
                                         <!-- Discount Badge -->
                                         <div class="pricing-discount bg--yellow-400 color--black r-36">
-                                            <h6 class="s-17">Save 30%</h6>
+                                            <h6 class="s-17">ลด 30%</h6>
                                         </div>
                                     </div>
                                     <!-- Text -->
-                                    <p class="color--grey">For personal use or small teams with simple workflows.</p>
+                                    <p class="color--grey">เหมาะสำหรับการใช้งานส่วนบุคคลหรือทีมขนาดเล็กที่มีเวิร์กโฟลว์ที่เรียบง่าย</p>
                                 </div>
                                 <!-- End Price -->
                                 <!-- Button -->
-                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">Start 14-day trial</a>
-                                <p class="p-sm btn-txt text-center color--grey">7-Day Money Back Guarantee</p>
+                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">เริ่มทดลองใช้งาน 14 วัน</a>
+                                <p class="p-sm btn-txt text-center color--grey">รับประกันคืนเงินภายใน 7 วัน</p>
                             </div>
                             <!-- END TABLE HEADER -->
                             <!-- PRICING FEATURES -->
                             <ul class="pricing-features color--black ico-10 ico--green mt-25">
                                 <li>
-                                    <p><span class="flaticon-check"></span>Analytics Report</p>
+                                    <p><span class="flaticon-check"></span>รายงานการวิเคราะห์</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> Dashboard นักเรียน</p>
+                                    <p><span class="flaticon-check"></span> แดชบอร์ดนักเรียน</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> Portfolio Review ไม่จำกัด </p>
+                                    <p><span class="flaticon-check"></span> Portfolio Review ไม่จำกัด</p>
                                 </li>
                             </ul>
                         </div>
@@ -118,44 +118,44 @@
                             <!-- TABLE HEADER -->
                             <div class="pricing-table-header">
                                 <!-- Title -->
-                                <h5 class="s-24">Enterprise (University)</h5>
+                                <h5 class="s-24">องค์กร (มหาวิทยาลัย)</h5>
                                 <!-- Price -->
                                 <div class="price">
                                     <!-- Monthly Price -->
                                     <div class="price2" v-if="showPrice2">
                                         <sup class="color--black">$</sup>
                                         <span class="color--black">24.99</span>
-                                        <sup class="validity color--grey">&nbsp;/&ensp;mo</sup>
+                                        <sup class="validity color--grey">&nbsp;/&ensp;เดือน</sup>
                                     </div>
                                     <!-- Yearly Price -->
                                     <div class="price1" v-if="showPrice1">
                                         <sup class="color--black">$</sup>
                                         <span class="color--black">194.99</span>
-                                        <sup class="validity color--grey">&nbsp;/&ensp;yr</sup>
+                                        <sup class="validity color--grey">&nbsp;/&ensp;ปี</sup>
                                         <!-- Discount Badge -->
                                         <div class="pricing-discount bg--yellow-400 color--black r-36">
-                                            <h6 class="s-17">Save 35%</h6>
+                                            <h6 class="s-17">ลด 35%</h6>
                                         </div>
                                     </div>
                                     <!-- Text -->
-                                    <p class="color--grey">For growing teams that need more services and flexibility.</p>
+                                    <p class="color--grey">สำหรับทีมงานที่กำลังเติบโตซึ่งต้องการบริการและความยืดหยุ่นมากขึ้น</p>
                                 </div>
                                 <!-- End Price -->
                                 <!-- Button -->
-                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">Upgrade your plan</a>
-                                <p class="p-sm btn-txt text-center color--grey">7-Day Money Back Guarantee</p>
+                                <a href="#" class="pt-btn btn r-04 btn--theme hover--theme">อัพเกรดแผนของคุณ</a>
+                                <p class="p-sm btn-txt text-center color--grey">รับประกันคืนเงินภายใน 7 วัน</p>
                             </div>
                             <!-- END TABLE HEADER -->
                             <!-- PRICING FEATURES -->
                             <ul class="pricing-features color--black ico-10 ico--green mt-25">
                                 <li>
-                                    <p><span class="flaticon-check"></span> University Dashboard</p>
+                                    <p><span class="flaticon-check"></span> แดชบอร์ดมหาวิทยาลัย</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> AI Screening Applicants</p>
+                                    <p><span class="flaticon-check"></span> ผู้สมัครที่ผ่านการคัดกรองด้วย AI</p>
                                 </li>
                                 <li>
-                                    <p><span class="flaticon-check"></span> Direct Application Management</p>
+                                    <p><span class="flaticon-check"></span> การจัดการแอปพลิเคชันโดยตรง</p>
                                 </li>
                                 
                             </ul>

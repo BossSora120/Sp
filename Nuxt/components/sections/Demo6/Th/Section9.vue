@@ -7,9 +7,9 @@
                 <div class="col-md-6 order-last order-md-2">
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- Section ID -->
-                        <span class="section-id">FINDING A UNIVERSITY IS EASY</span>
+                        <span class="section-id">การหามหาวิทยาลัยเป็นเรื่องง่าย</span>
                         <!-- Title -->
-                        <h2 class="s-46 w-700">Apply to your dream university</h2>
+                        <h2 class="s-46 w-700">สมัครเข้ามหาวิทยาลัยในฝันของคุณ</h2>
                         <!-- List -->
                         <ul class="simple-list">
                             <li class="list-item">

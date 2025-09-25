@@ -1,19 +1,17 @@
 <template>
     <div>
-        <SectionsAboutSection1 />
-        <SectionsAboutSection2 />
-        <SectionsAboutSection3 />
-        <SectionsAboutSection4 />
-        <SectionsAboutSection5 />
-        <SectionsAboutSection6 />
-        <SectionsAboutSection7 />
-        <SectionsAboutSection8 />
-        <SectionsAboutSection9 />
-        <SectionsAboutSection10 />
-        <SectionsAboutSection11 />
-        <SectionsAboutSection12 />
-        <SectionsAboutSection13 />
-        <SectionsAboutSection14 />
+        <SectionsAboutThSection1 />
+        <SectionsAboutThSection2 />
+        <SectionsAboutThSection3 />
+        <SectionsAboutThSection4 />
+        <SectionsAboutThSection5 />
+        <SectionsAboutThSection8 />
+        <SectionsAboutThSection7 />
+        <SectionsAboutThSection10 />
+        <SectionsAboutThSection11 />
+        <SectionsAboutThSection12 />
+        <SectionsAboutThSection13 />
+        <SectionsAboutThSection14 />
     </div>
 </template>
 <script setup>
