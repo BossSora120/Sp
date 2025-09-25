@@ -1,20 +1,20 @@
 <template>
     <div>
-        <SectionsFeaturesSection1 />
-        <SectionsFeaturesSection2 />
-        <SectionsFeaturesSection3 />
-        <SectionsFeaturesSection4 />
-        <SectionsFeaturesSection5 />
-        <SectionsFeaturesSection6 />
-        <SectionsFeaturesSection7 />
-        <SectionsFeaturesSection8 />
-        <SectionsFeaturesSection9 />
-        <SectionsFeaturesSection10 />
-        <SectionsFeaturesSection11 />
-        <SectionsFeaturesSection12 />
-        <SectionsFeaturesSection13 />
-        <SectionsFeaturesSection14 />
-        <SectionsFeaturesSection15 />
+        <SectionsFeaturesThSection1 />
+        <SectionsFeaturesThSection2 />
+        <SectionsFeaturesThSection3 />
+        <SectionsFeaturesThSection4 />
+        <SectionsFeaturesThSection5 />
+        <SectionsFeaturesThSection6 />
+        <SectionsFeaturesThSection7 />
+        <SectionsFeaturesThSection8 />
+        <SectionsFeaturesThSection9 />
+        <SectionsFeaturesThSection10 />
+        <SectionsFeaturesThSection11 />
+        <SectionsFeaturesThSection12 />
+        <SectionsFeaturesThSection13 />
+        <SectionsFeaturesThSection14 />
+        <SectionsFeaturesThSection15 />
     </div>
 </template>
 <script setup>

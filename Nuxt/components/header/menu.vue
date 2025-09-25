@@ -51,27 +51,10 @@
   </div>
 </template>
 
-<script setup>
-import { ref, watch } from 'vue'
-import { useRouter, useRoute } from 'vue-router'
+<script setup lang="ts">
+import { useLang } from '~/composables/useLang'
 
-const router = useRouter()
-const route = useRoute()
-
-// ภาษาเริ่มต้น
-const currentLang = ref(route.path.startsWith('/th') ? 'th' : 'en')
-
-// อัพเดตภาษาเมื่อ route เปลี่ยน
-watch(route, (newRoute) => {
-  currentLang.value = newRoute.path.startsWith('/th') ? 'th' : 'en'
-})
-
-// toggle ภาษา
-const toggleLang = async () => {
-  const target = currentLang.value === 'en' ? '/th' : '/';
-  await router.push(target);   // รอให้ navigation เสร็จ
-  window.location.reload();    // ค่อยรีโหลด (ถ้าจำเป็นจริงๆ)
-}
+const { currentLang, toggleLang } = useLang()
 </script>
 
 <style scoped>

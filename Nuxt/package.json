@@ -14,7 +14,8 @@
     "@types/node": "^18.19.42",
     "autoprefixer": "^10.4.19",
     "nuxt": "^4.1.2",
-    "postcss": "^8.4.40"
+    "postcss": "^8.4.40",
+    "typescript": "^5.9.2"
   },
   "dependencies": {
     "@nuxtjs/google-fonts": "^3.2.0",
