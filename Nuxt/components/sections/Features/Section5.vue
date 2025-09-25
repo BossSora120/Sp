@@ -5,7 +5,7 @@
                 <!-- FEATURES-13 WRAPPER -->
                 <div class="section-icon-wrapper">
                         <div class="row">
-                            <div class="features-icon-section">
+                            <div class="features-icon-section fadeInRight">
                                 <!-- FEATURE BOX #1 -->
                                 <div id="fb-12-1" class="fbox-12 bg--white-100 block-shadow r-12 mb-30 fbox-ico-wrapper">
                                     <!-- Icon -->
@@ -22,8 +22,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Market Research</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Intuitive Dashboard</h5>
+                                        <p>An intuitive dashboard that gives you a complete overview at a glance.</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #2 -->
@@ -42,8 +42,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">User Experience</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Effortless Integration</h5>
+                                        <p>Seamlessly integrates with tools you already use like Google Drive, Slack, Trello.</p>
                                     </div>
                                 </div>
                                 <!-- FEATURE BOX #3 -->
@@ -62,8 +62,8 @@
                                     <!-- End Icon -->
                                     <!-- Text -->
                                     <div class="fbox-txt">
-                                        <h5 class="s-20 w-700">Digital Marketing</h5>
-                                        <p>Porta semper lacus and cursus feugiat at primis ultrice a ligula auctor</p>
+                                        <h5 class="s-20 w-700">Real-time Analytics</h5>
+                                        <p>Track progress, analyze opportunities, and adjust your learning plan in real time.</p>
                                     </div>
                                 </div>
                             </div>
@@ -107,14 +107,9 @@
     gap: 20px;
 }
 
-.fadeInRight{
-    background: red;
-    width: 100%;
-}
-
 #features-13.pt-100.shape--bg:after{
-    max-width: 1483px;
-    width: 82%;
+    min-width: 1430px;
+    width: 70%;
     height: 82%;
     top: 23%;
     border-bottom-right-radius: 40px;

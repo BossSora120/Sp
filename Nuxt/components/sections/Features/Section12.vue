@@ -27,7 +27,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Zapier</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Automate workflows</p>
                             </div>
                         </a>
                     </div>
@@ -44,28 +44,11 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Analytics</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Insights & reports</p>
                             </div>
                         </a>
                     </div>
                     <!-- END FEATURE BOX #2 -->
-                    <!-- TOOL #3 -->
-                    <div class="col">
-                        <a href="#" class="in_tool it-3 r-12 mb-30 wow fadeInUp">
-                            <!-- Icon -->
-                            <div class="in_tool-logo-wrap">
-                                <div class="in_tool-logo ico-60">
-                                    <img class="img-fluid" src="/assets/images/png_icons/tool-3.png" alt="brand-logo" />
-                                </div>
-                            </div>
-                            <!-- Text -->
-                            <div class="in_tool-txt">
-                                <h6 class="s-20 w-700">Amplitude</h6>
-                                <p class="p-sm">Share findings</p>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- END FEATURE BOX #3 -->
                     <!-- TOOL #4 -->
                     <div class="col">
                         <a href="#" class="in_tool it-4 r-12 mb-30 wow fadeInUp">
@@ -78,7 +61,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Hubspot</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Manage relationships</p>
                             </div>
                         </a>
                     </div>
@@ -95,7 +78,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">MailChimp</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Campaigns & updates</p>
                             </div>
                         </a>
                     </div>
@@ -112,7 +95,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Slack</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Team communication</p>
                             </div>
                         </a>
                     </div>
@@ -129,7 +112,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Dropbox</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Document storage</p>
                             </div>
                         </a>
                     </div>
@@ -146,7 +129,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Trello</h6>
-                                <p class="p-sm">Share findings</p>
+                                <p class="p-sm">Project management</p>
                             </div>
                         </a>
                     </div>
@@ -163,7 +146,7 @@
                             <!-- Text -->
                             <div class="in_tool-txt">
                                 <h6 class="s-20 w-700">Google Drive</h6>
-                                <p class="p-sm">Import data</p>
+                                <p class="p-sm">Portfolio files</p>
                             </div>
                         </a>
                     </div>

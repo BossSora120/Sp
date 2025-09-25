@@ -10,7 +10,6 @@
         <SectionsFeaturesSection8 />
         <SectionsFeaturesSection9 />
         <SectionsFeaturesSection10 />
-        <SectionsFeaturesSection11 />
         <SectionsFeaturesSection12 />
         <SectionsFeaturesSection13 />
         <SectionsFeaturesSection14 />
