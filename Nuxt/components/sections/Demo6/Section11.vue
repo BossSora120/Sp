@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Build Your Future with AI + Community</h2>
+                        <h2 class="s-50 w-700">Build Your Future with <br> AI + Community</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">AI-powered recommendations and a thriving student community.</p>
                     </div>
@@ -41,6 +41,11 @@
                             <div class="fbox-txt">
                                 <h5 class="s-26 w-700">community</h5>
                                 <p>a thriving student community.</p>
+                                <a href="#banner-1" 
+                                    class="btn r-04 btn--theme hover--theme fbox-btn" 
+                                    style="flex: 1 1 250px; min-width: 250px; text-align: center;">
+                                    Join the Community
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -53,3 +58,16 @@
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .fbox-txt{
+        position: relative;
+    }
+
+    .fbox-btn{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -140px;
+    }
+</style>

@@ -62,9 +62,20 @@
                     <!-- END FEATURE BOX #3 -->
                 </div>
                 <!-- End row -->
-            </div>
+                 <a href="#banner-1" 
+                                    class="btn r-04 btn--theme hover--theme space wow fadeInUp" 
+                                    style="flex: 1 1 250px; min-width: 250px; text-align: center;">
+                                    Explore All Features
+                                </a>
+                 </div>
             <!-- END FEATURES-2 WRAPPER -->
         </div>
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .space{
+        margin: 20px;
+    }
+</style>

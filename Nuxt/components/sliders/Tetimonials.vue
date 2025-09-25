@@ -20,7 +20,7 @@
                     <!-- Text -->
                     <div class="review-txt">
                         <!-- Text -->
-                        <p>EduConnext ทำให้การสมัคร TCAS ง่ายขึ้นมาก และได้ทุนที่ใช่จริง ๆ</p>
+                        <p>EduConnext simplified portfolio review for my students. Very effective.</p>
                         <!-- Author -->
                         <div class="author-data clearfix">
                             <!-- Avatar -->
@@ -29,8 +29,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข1</h6>
-                                <p class="p-sm">@นักเรียน</p>
+                                <h6 class="s-18 w-700">User-Num1</h6>
+                                <p class="p-sm">@Student</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -54,8 +54,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข2</h6>
-                                <p class="p-sm">@ครูทั่วไป</p>
+                                <h6 class="s-18 w-700">User-Num2</h6>
+                                <p class="p-sm">@Teacher</p>
                             </div>
                         </div>
                         <!-- End Author -->
@@ -70,7 +70,7 @@
                     <!-- Text -->
                     <div class="review-txt">
                         <!-- Text -->
-                        <p>EduConnext ทำให้การทำ Portfolio และการสมัคร TCAS ง่ายขึ้นมาก</p>
+                        <p>EduConnext makes creating a portfolio and applying for TCAS much easier.</p>
                         <!-- Author -->
                         <div class="author-data clearfix">
                             <!-- Avatar -->
@@ -79,8 +79,8 @@
                             </div>
                             <!-- Data -->
                             <div class="review-author">
-                                <h6 class="s-18 w-700">ผู้ใช้งานหมายเลข3</h6>
-                                <p class="p-sm">@นักศึกษา</p>
+                                <h6 class="s-18 w-700">User-Num3</h6>
+                                <p class="p-sm">@collegian</p>
                             </div>
                         </div>
                         <!-- End Author -->
