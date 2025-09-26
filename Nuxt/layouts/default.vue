@@ -1,8 +1,14 @@
 <template>
     <div id="page" class="page font--jakarta">
         <HeaderLayout1 />
-        <slot />
-        <component :is="footerComponent" />
+
+        <main>
+            <slot />
+        </main>
+
+        <KeepAlive>
+                <component :is="footerComponent" />
+        </KeepAlive>
     </div>
 </template>
 

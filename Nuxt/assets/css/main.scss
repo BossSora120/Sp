@@ -2986,8 +2986,10 @@ p.video-txt-sm {
   =========================================================================== */
 #header {
     width: 100%;
-    display: block;
-    padding-top: 0px;
+    display: relative;
+    padding: 0px;
+    position: fixed;
+    z-index: 999;
 }
 .header-wrapper {
     position: fixed;
