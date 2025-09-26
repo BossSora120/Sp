@@ -2,9 +2,10 @@
     <section class="pt-100 ct-04 content-section division">
         <div class="container">
             <!-- SECTION CONTENT (ROW) -->
-            <div class="row d-flex align-items-center">
+            <div class="d-flex align-items-center">
                 <!-- TEXT BLOCK -->
                 <div class="col-md-6 order-last order-md-2">
+                    <h1 class="cbox-title">Simplify. Optimize. Automate</h1>
                     <div class="txt-block left-column wow fadeInRight">
                         <!-- CONTENT BOX #1 -->
                         <div class="cbox-2 process-step">
@@ -15,8 +16,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Simple, Secure & Intuitive</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Weekly Progress Reports</h5>
+                                <p>รายงานความคืบหน้าส่งตรงถึงคุณทุกสัปดาห์</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #1 -->
@@ -29,8 +30,8 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">Weekly Email Reports</h5>
-                                <p>Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum neque ligula quaerat</p>
+                                <h5 class="s-22 w-700">No Personal Data Misuse</h5>
+                                <p>ข้อมูลของคุณปลอดภัย 100%</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #2 -->
@@ -42,11 +43,12 @@
                             </div>
                             <!-- Text -->
                             <div class="cbox-2-txt">
-                                <h5 class="s-22 w-700">No Personal Data Collected</h5>
-                                <p class="mb-0">Ligula risus auctor tempus feugiat dolor lacinia nemo purus in lipsum purus sapien quaerat a primis viverra tellus vitae luctus dolor ipsum n eque ligula quaerat</p>
+                                <h5 class="s-22 w-700">Strategies That Work</h5>
+                                <p class="mb-0">แนวทางที่ผ่านการพิสูจน์แล้วว่าช่วยเพิ่มโอกาสสำเร็จ</p>
                             </div>
                         </div>
                         <!-- END CONTENT BOX #3 -->
+                         
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->
@@ -62,3 +64,10 @@
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .cbox-title{
+        white-space: nowrap;
+        padding-bottom: 45px;
+    }
+</style>

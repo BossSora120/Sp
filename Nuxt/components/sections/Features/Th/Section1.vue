@@ -11,16 +11,8 @@
                         <!-- Title -->
                         <h2 class="s-46 w-700">ครบทุกสิ่งสำหรับอนาคตการเรียนและการทำงาน</h2>
                         <!-- Text -->
-                        <p>Sodales tempor sapien quaerat ipsum undo congue laoreet turpis neque auctor turpis vitae dolor luctus placerat magna and ligula cursus purus vitae purus an ipsum suscipit</p>
+                        <p>EduConnext รวมเครื่องมือครบวงจร ตั้งแต่การสร้างแฟ้มผลงาน การสมัครมหาวิทยาลัย การค้นหาทุน ไปจนถึงการหางานและฝึกงาน</p>
                         <!-- List -->
-                        <ul class="simple-list">
-                            <li class="list-item">
-                                <p>Tempor sapien quaerat an ipsum laoreet purus and sapien dolor an ultrice ipsum aliquam undo congue dolor cursus</p>
-                            </li>
-                            <li class="list-item">
-                                <p class="mb-0">Cursus purus suscipit vitae cubilia magnis volute egestas vitae sapien turpis ultrice auctor congue placerat</p>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <!-- END TEXT BLOCK -->

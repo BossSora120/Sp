@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Features</h2>
+                        <h2 class="s-50 w-700">คุณสมบัติ</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
@@ -35,7 +35,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Portfolio Builder</h6>
-                                <p>สร้างพอร์ตดิจิทัลมาตรฐาน พร้อม Export PDF ได้ทันที</p>
+                                <p>สรา้งพอร์ตดิจิทัลมาตรฐานพร้อม Export PDF ได้ทันที</p>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-idea"></span>
+                                        <span class="flaticon-graphic"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -73,7 +73,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-graphic"></span>
+                                        <span class="flaticon-wireframe"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -98,7 +98,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-wireframe"></span>
+                                        <span class="flaticon-idea"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -110,7 +110,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">AI Recommendation</h6>
-                                <p>AI วิเคราะห์โปรไฟล์และแนะนำเส้นทางการศึกษาและอาชีพที่เหมาะสม</p>
+                                <p>AI วิเคราะห์โปรไฟล์และแนะนำเสนอทางการศึกษาและอาชีพที่เหมาะสม</p>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@
                             <!-- Text -->
                             <div class="fbox-txt">
                                 <h6 class="s-22 w-700">Scholarships & Exchange</h6>
-                                <p>ค้นหาทุนการศึกษาและโครงการแลกเปลี่ยน พร้อมระบบ AI แนะนำทุนที่เหมาะสม</p>
+                                <p>ค้นหาทุนการศึกษาและโครงการแลกเปลี่ยนพร้อมระบบ AI แนะนำทุนที่เหมาะสม</p>
                             </div>
                         </div>
                     </div>

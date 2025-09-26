@@ -6,7 +6,7 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Questions & Answers</h2>
+                        <h2 class="s-50 w-700">สอบถามข้อมูลเพิ่มเติม</h2>
                         <!-- Text -->
                         <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
                     </div>
@@ -21,29 +21,27 @@
                             <!-- QUESTION #1 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>1.</span> Getting started with Martex</h5>
+                                <h5 class="s-22 w-700"><span>1.</span> EduConnext ฟรีหรือไม่?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Etiam amet mauris suscipit in odio integer congue metus and vitae arcu mollis blandit ultrice ligula egestas magna suscipit lectus magna suscipit luctus blandit and laoreet</p>
+                                <p class="color--grey">ใช่ นักเรียนใช้งานฟรีตลอดชีพ</p>
                             </div>
                             <!-- QUESTION #2 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>2.</span> What's inside the package?</h5>
+                                <h5 class="s-22 w-700"><span>2.</span> สมัครมหาวิทยาลัยได้โดยตรงไหม?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim porta justo integer at velna vitae auctor integer congue undo magna laoreet augue pretium purus pretium ligula</p>
+                                <p class="color--grey">ได้ สำหรับมหาวิทยาลัยพันธมิตรในระบบ</p>
                             </div>
                             <!-- QUESTION #3 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>3.</span> How do I choose a plan?</h5>
+                                <h5 class="s-22 w-700"><span>3.</span> จะเริ่มต้นใช้งานได้อย่างไร?</h5>
                                 <!-- Answer -->
                                 <ul class="simple-list color--grey">
                                     <li class="list-item">
-                                        <p>Fringilla risus, luctus mauris orci auctor purus ligula euismod pretium purus pretium rutrum tempor sapien</p>
+                                        <p>สมัครฟรีในไม่กี่ขั้นตอน สร้างพอร์ต และเริ่มใช้งานทันที</p>
                                     </li>
-                                    <li class="list-item">
-                                        <p>Nemo ipsam egestas volute undo turpis purus lipsum primis aliquam sapien quaerat sodales pretium a purus</p>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -55,23 +53,21 @@
                             <!-- QUESTION #4 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>4.</span> How does Martex handle my privacy?</h5>
+                                <h5 class="s-22 w-700"><span>4.</span>  EduConnext ต่างจากแพลตฟอร์มอื่นอย่างไร</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Quaerat sodales sapien euismod blandit purus a purus ipsum primis in cubilia laoreet augue luctus dolor luctus</p>
-                                <!-- Answer -->
-                                <p class="color--grey">An enim nullam tempor sapien gravida donec congue metus. Vitae arcu mollis blandit integer nemo volute velna</p>
+                                <p class="color--grey">EduConnext รวม Portfolio, การสมัครมหาวิทยาลัย, ทุน, อาชีพ และ AI แนะแนวไว้ครบในที่เดียว</p>
                             </div>
                             <!-- QUESTION #5 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>5.</span> I have an issue with my account</h5>
+                                <h5 class="s-22 w-700"><span>5.</span> ระบบ AI ทำงานอย่างไร?</h5>
                                 <!-- Answer -->
-                                <p class="color--grey">Cubilia laoreet augue egestas and luctus donec curabite diam vitae dapibus libero and quisque gravida donec neque blandit justo aliquam molestie nunc sapien justo</p>
+                                <p class="color--grey">วิเคราะห์โปรไฟล์และพฤติกรรมการเรียน เพื่อแนะนำคณะ/ทุน/เส้นทางอาชีพที่เหมาะสม</p>
                             </div>
                             <!-- QUESTION #6 -->
                             <div class="question mb-35 wow fadeInUp">
                                 <!-- Question -->
-                                <h5 class="s-22 w-700"><span>6.</span> Can I cancel at anytime?</h5>
+                                <h5 class="s-22 w-700"><span>6.</span>  Can I cancel at anytime?</h5>
                                 <!-- Answer -->
                                 <p class="color--grey">An enim nullam tempor sapien gravida donec ipsum and enim porta justo integer at velna vitae auctor integer congue undo magna laoreet augue pretium purus pretium ligula</p>
                             </div>
@@ -88,8 +84,8 @@
                     <div class="more-questions mt-40">
                         <div class="more-questions-txt bg--white-400 r-100">
                             <p class="p-lg">
-                                Have any questions?
-                                <NuxtLink to="/contacts" class="color--theme">Get in Touch</NuxtLink>
+                                หากมีคำถามเพิ่มเติม?
+                                <NuxtLink to="/contacts" class="color--theme">ติดต่อเรา</NuxtLink>
                             </p>
                         </div>
                     </div>

@@ -6,9 +6,9 @@
                 <div class="col-md-10 col-lg-9">
                     <div class="section-title mb-70">
                         <!-- Title -->
-                        <h2 class="s-50 w-700">Track the progress towards objectives with key results</h2>
+                        <h2 class="s-50 w-700">Build Your Future with <br> AI + Community</h2>
                         <!-- Text -->
-                        <p class="s-21 color--grey">Ligula risus auctor tempus magna feugiat lacinia.</p>
+                        <p class="s-21 color--grey">AI ช่วยแนะนำคณะ/ทุน พร้อม Community ให้นักเรียนแชร์ประสบการณ์</p>
                     </div>
                 </div>
             </div>
@@ -17,30 +17,35 @@
                 <div class="row d-flex align-items-center">
                     <!-- FEATURE BOX #1 -->
                     <div class="col-md-6">
-                        <div class="fbox-5 fb-1 gr--smoke r-16 wow fadeInUp">
+                        <div class="fbox-5 fb-1 bg--white-400 r-16 wow fadeInUp">
                             <!-- Text -->
                             <div class="fbox-txt order-last order-md-2">
-                                <h5 class="s-26 w-700">Marketing Integrations</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <h5 class="s-26 w-700">AI-powered recommendations</h5>
+                                <p>AI ช่วยแนะนำคณะ/ทุน</p>
                             </div>
                             <!-- Image -->
                             <div class="fbox-5-img order-first order-md-2">
-                                <img class="img-fluid" src="/assets/images/f_06.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-ai.png" alt="feature-image" />
                             </div>
                         </div>
                     </div>
                     <!-- END FEATURE BOX #1 -->
                     <!-- FEATURE BOX #2 -->
                     <div class="col-md-6">
-                        <div class="fbox-5 fb-2 gr--smoke r-16 wow fadeInUp">
+                        <div class="fbox-5 fb-2 bg--white-400 r-16 wow fadeInUp">
                             <!-- Image -->
                             <div class="fbox-5-img">
-                                <img class="img-fluid" src="/assets/images/f_04.png" alt="feature-image" />
+                                <img class="img-fluid" src="/assets/images/feature-image-commu.png" alt="feature-image" />
                             </div>
                             <!-- Text -->
                             <div class="fbox-txt">
-                                <h5 class="s-26 w-700">Productivity Focused</h5>
-                                <p>Aliquam a augue suscipit luctus diam neque purus ipsum neque and dolor primis libero</p>
+                                <h5 class="s-26 w-700">community</h5>
+                                <p>Community ให้นักเรียนแชร์ประสบการณ์</p>
+                                <a href="#banner-1" 
+                                    class="btn r-04 btn--theme hover--theme fbox-btn" 
+                                    style="flex: 1 1 250px; min-width: 250px; text-align: center;">
+                                    Join the Community
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -53,3 +58,16 @@
         <!-- End container -->
     </section>
 </template>
+
+<style>
+    .fbox-txt{
+        position: relative;
+    }
+
+    .fbox-btn{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -140px;
+    }
+</style>
