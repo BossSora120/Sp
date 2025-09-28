@@ -62,10 +62,11 @@
                     <!-- END FEATURE BOX #3 -->
                 </div>
                 <!-- End row -->
-                 <a href="#banner-1" 
-                                    class="btn r-04 btn--theme hover--theme space wow fadeInUp" 
-                                    style="flex: 1 1 250px; min-width: 250px; text-align: center;">
-                                    สำรวจคุณสมบัติทั้งหมด
+                    <a href="#banner-1" 
+                        class="btn r-04 btn--theme hover--theme space wow fadeInUp" 
+                        style="flex: 1 1 250px; min-width: 250px; text-align: center;">
+                        สำรวจคุณสมบัติทั้งหมด
+                    </a>
                  </div>
             <!-- END FEATURES-2 WRAPPER -->
         </div>

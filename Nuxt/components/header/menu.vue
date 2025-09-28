@@ -4,10 +4,12 @@
 
       <!-- LOGO -->
       <div class="desktoplogo">
-        <NuxtLink :to="currentLang === 'en' ? '/' : '/th'" class="logo-black">
-          <img src="/assets/images/logo-default.png" :alt="currentLang === 'en' ? 'logo' : 'โลโก้'" />
-        </NuxtLink>
-      </div>
+                <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-pink.png" alt="logo" /></NuxtLink>
+            </div>
+            <!-- HEADER WHITE LOGO -->
+            <div class="desktoplogo">
+                <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-white.png" alt="logo" /></NuxtLink>
+            </div>
 
       <!-- MAIN MENU -->
       <nav class="wsmenu clearfix">
@@ -52,10 +54,46 @@
 </template>
 
 <script setup lang="ts">
+import { onMounted, onBeforeUnmount, reactive } from 'vue'
 import { useLang } from '~/composables/useLang'
 
+// เรียกใช้ useLang()
 const { currentLang, toggleLang } = useLang()
+
+// state สำหรับ accordion
+const state = reactive({
+  isOpen: [false, false]
+})
+
+// ฟังก์ชัน toggle accordion
+const toggle = (index: number) => {
+  state.isOpen[index] = !state.isOpen[index]
+}
+
+// ฟังก์ชัน handleScroll
+const handleScroll = () => {
+  const menu = document.getElementById("main-menu")
+  const header = document.getElementById("header")
+  if (menu && header) {
+    if (window.pageYOffset > 100) {
+      menu.classList.add("scroll")
+      header.classList.add("scroll")
+    } else {
+      menu.classList.remove("scroll")
+      header.classList.remove("scroll")
+    }
+  }
+}
+
+// lifecycle hooks
+onMounted(() => {
+  window.addEventListener("scroll", handleScroll)
+})
+onBeforeUnmount(() => {
+  window.removeEventListener("scroll", handleScroll)
+})
 </script>
+
 
 <style scoped>
 .lang-toggle {
