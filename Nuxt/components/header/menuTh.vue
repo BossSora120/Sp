@@ -1,7 +1,6 @@
 <template>
   <div id="main-menu" class="wsmainfull menu clearfix menu-th">
-    <div class="wsmainwp flex-header-row">
-
+    <div class="wsmainwp clearfix logo-wraper">
       <!-- LOGO -->
               <!-- LOGO -->
           <div class="desktoplogo">

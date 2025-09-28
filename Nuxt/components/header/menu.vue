@@ -1,6 +1,6 @@
 <template>
   <div id="main-menu" class="wsmainfull menu clearfix">
-    <div class="wsmainwp clearfix" style="display: flex; align-items: center; justify-content: space-between;">
+    <div class="wsmainwp clearfix logo-wraper">
         <!-- LOGO -->
           <div class="desktoplogo">
             <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-default.png" alt="logo" /></NuxtLink>
@@ -95,16 +95,21 @@ onBeforeUnmount(() => {
 
 
 <style scoped>
-.lang-toggle {
-  position: absolute;
-  background: #0a00ce;
-  color: #1b263b;
-  border: none;
-  border-radius: 5px;
-  padding: 0.3rem 0.8rem;
-  cursor: pointer;
-  font-weight: bold;
-  top: 50%;
-  transform: translateY(-50%);
-}
+  .lang-toggle {
+    position: absolute;
+    background: #0a00ce;
+    color: #1b263b;
+    border: none;
+    border-radius: 5px;
+    padding: 0.3rem 0.8rem;
+    cursor: pointer;
+    font-weight: bold;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .logo-wraper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 </style>
