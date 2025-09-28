@@ -1,15 +1,14 @@
 <template>
   <div id="main-menu" class="wsmainfull menu clearfix">
     <div class="wsmainwp clearfix" style="display: flex; align-items: center; justify-content: space-between;">
-
-      <!-- LOGO -->
-      <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-pink.png" alt="logo" /></NuxtLink>
-            </div>
-            <!-- HEADER WHITE LOGO -->
-            <div class="desktoplogo">
-                <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-white.png" alt="logo" /></NuxtLink>
-            </div>
+        <!-- LOGO -->
+          <div class="desktoplogo">
+            <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-default.png" alt="logo" /></NuxtLink>
+          </div>
+        <!-- HEADER WHITE LOGO -->
+          <div class="desktoplogo">
+              <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-edu-white.png" alt="logo" /></NuxtLink>
+          </div>
 
       <!-- MAIN MENU -->
       <nav class="wsmenu clearfix">

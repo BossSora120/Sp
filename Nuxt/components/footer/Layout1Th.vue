@@ -6,7 +6,7 @@
         <!-- FOOTER LOGO -->
         <div class="col-xl-3">
           <div class="footer-info">
-            <img class="footer-logo" src="/assets/images/logo-default.png" alt="โลโก้" />
+            <img class="footer-logo" src="/assets/images/logo-footer.png" alt="โลโก้" />
           </div>
         </div>
 

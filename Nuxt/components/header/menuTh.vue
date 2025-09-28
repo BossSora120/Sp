@@ -3,11 +3,14 @@
     <div class="wsmainwp flex-header-row">
 
       <!-- LOGO -->
-      <div class="desktoplogo">
-        <NuxtLink to="/th" class="logo-black">
-          <img src="/assets/images/logo-default.png" alt="โลโก้" />
-        </NuxtLink>
-      </div>
+              <!-- LOGO -->
+          <div class="desktoplogo">
+            <NuxtLink to="/" class="logo-black"><img src="/assets/images/logo-default.png" alt="โลโก้" /></NuxtLink>
+          </div>
+        <!-- HEADER WHITE LOGO -->
+          <div class="desktoplogo">
+              <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-edu-white.png" alt="โลโก้" /></NuxtLink>
+          </div>
       <!-- MAIN MENU + SIGNUP BUTTON -->
       <nav class="wsmenu clearfix menu-flex-row">
         <ul class="wsmenu-list nav-theme wsmenu-list-th">
@@ -109,3 +112,40 @@ const toggleLang = () => {
   background-color: #0a00ce;
 }
 </style>
+
+<script>
+import { reactive } from 'vue';
+export default {
+    setup() {
+        const state = reactive({
+        isOpen: [false, false]
+        });
+        const toggle = (index) => {
+        state.isOpen[index] = !state.isOpen[index];
+        };
+        return {
+        toggle,
+        isOpen: state.isOpen
+        };
+    },
+    mounted() {
+        window.addEventListener("scroll", this.handleScroll);
+    },
+    destroyed() {
+        window.removeEventListener("scroll", this.handleScroll);
+    },
+    methods: {
+        handleScroll() {
+            const menu = document.getElementById("main-menu");
+            const header = document.getElementById("header");
+            if (window.pageYOffset > 100) {
+                menu.classList.add("scroll");
+                header.classList.add("scroll");
+            } else {
+                menu.classList.remove("scroll");
+                header.classList.remove("scroll");
+            }
+        }
+    }
+};
+</script>
