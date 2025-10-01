@@ -1,0 +1,68 @@
+<template>
+    <section id="features-5" class="pt-100 features-section division">
+        <div class="container">
+            <!-- SECTION TITLE -->
+            <div class="row justify-content-center">
+                <div class="col-md-10 col-lg-9 title-width">
+                    <div class="section-title mb-70">
+                        <!-- Title -->
+                        <h2 class="s-50 w-700 title">Dashboard > Space Utilization with KPI (ROA/ROI)</h2>
+                    </div>
+                </div>
+            </div>
+            <!-- FEATURES-5 WRAPPER -->
+            <div class="fbox-wrapper text-center">
+                <div class="row d-flex align-items-center">
+                    <!-- FEATURE BOX #1 -->
+                    <div class="col-md-6">
+                        <div class="fbox-5 fb-1 bg--white-400 r-16 wow fadeInUp">
+                            <!-- Text -->
+                            <div class="fbox-txt order-last order-md-2">
+                                <h5 class="s-26 w-700">Project Report</h5>
+                            </div>
+                            <!-- Image -->
+                            <div class="fbox-5-img order-first order-md-2">
+                                <img class="img-fluid" src="/assets/images/spaceloop-dashboard-img-1.png" alt="feature-image" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END FEATURE BOX #1 -->
+                    <!-- FEATURE BOX #2 -->
+                    <div class="col-md-6">
+                        <div class="fbox-5 fb-2 bg--white-400 r-16 wow fadeInUp">
+                            <!-- Image -->
+                            <div class="fbox-5-img">
+                                <img class="img-fluid" src="/assets/images/spaceloop-dashboard-img-2.png" alt="feature-image" />
+                            </div>
+                            <!-- Text -->
+                            <div class="fbox-txt">
+                                <h5 class="s-26 w-700">Unit Report</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END FEATURE BOX #2 -->
+                </div>
+                <!-- End row -->
+            </div>
+            <!-- END FEATURES-5 WRAPPER -->
+        </div>
+        <!-- End container -->
+    </section>
+</template>
+
+<style>
+    .fbox-txt{
+        position: relative;
+    }
+
+    .fbox-btn{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: -140px;
+    }
+
+    .title-width , .title{
+        width: 1100px;
+    }
+</style>

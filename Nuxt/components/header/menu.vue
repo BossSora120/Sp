@@ -7,13 +7,13 @@
           </div>
         <!-- HEADER WHITE LOGO -->
           <div class="desktoplogo">
-              <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-edu-white.png" alt="logo" /></NuxtLink>
+              <NuxtLink to="/" class="logo-white"><img src="/assets/images/logo-spaceloop-white.png" alt="logo" /></NuxtLink>
           </div>
 
       <!-- MAIN MENU -->
       <nav class="wsmenu clearfix">
         <ul class="wsmenu-list nav-theme">
-          <li class="nl-simple"><NuxtLink :to="currentLang === 'en' ? '/demo-6' : '/th/demo-6'" class="h-link">
+          <li class="nl-simple"><NuxtLink :to="currentLang === 'en' ? '/' : '/th/'" class="h-link">
             {{ currentLang === 'en' ? 'Home' : 'หน้าแรก' }}
           </NuxtLink></li>
           <li class="nl-simple"><NuxtLink :to="currentLang === 'en' ? '/about' : '/th/about'" class="h-link">
@@ -43,7 +43,7 @@
 
       <!-- LANGUAGE TOGGLE -->
       <div style="margin-left: 20px;">
-        <button @click="toggleLang" class="lang-toggle">
+        <button @click="toggleLang" class="btn lang-toggle btn--theme hover--tra-white r-04">
           {{ currentLang === 'en' ? 'TH' : 'EN' }}
         </button>
       </div>
@@ -97,19 +97,20 @@ onBeforeUnmount(() => {
 <style scoped>
   .lang-toggle {
     position: absolute;
-    background: #0a00ce;
-    color: #1b263b;
     border: none;
     border-radius: 5px;
     padding: 0.3rem 0.8rem;
     cursor: pointer;
-    font-weight: bold;
     top: 50%;
     transform: translateY(-50%);
+    right: -50px;
+    height: 60%;
   }
   .logo-wraper{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    position: relative;
+  }
+
+  .logo-black , .logo-white{
+    transform: scale(1.4);
   }
 </style>

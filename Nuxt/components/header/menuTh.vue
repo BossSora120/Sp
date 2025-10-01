@@ -13,7 +13,7 @@
       <!-- MAIN MENU + SIGNUP BUTTON -->
       <nav class="wsmenu clearfix menu-flex-row">
         <ul class="wsmenu-list nav-theme wsmenu-list-th">
-          <li class="nl-simple"><NuxtLink to="/th/demo-6" class="h-link">หน้าแรก</NuxtLink></li>
+          <li class="nl-simple"><NuxtLink to="/th/" class="h-link">หน้าแรก</NuxtLink></li>
           <li class="nl-simple"><NuxtLink to="/th/about" class="h-link">เกี่ยวกับเรา</NuxtLink></li>
           <li class="nl-simple"><NuxtLink to="/th/features" class="h-link">คุณสมบัติ</NuxtLink></li>
           <li class="nl-simple"><NuxtLink to="/th/pricing-1" class="h-link">ราคา</NuxtLink></li>

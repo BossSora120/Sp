@@ -6,6 +6,6 @@
 
 <script setup>
     definePageMeta({
-        layout: "no-header-footer",
+        layout: "no-header-footer scheme-crocus",
     })
 </script>

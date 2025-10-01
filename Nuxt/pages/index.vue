@@ -1,22 +1,17 @@
 <template>
   <div>
     <Header />
-    <SectionsDemo6Section1 />
-    <SectionsDemo6Section2 />
-    <SectionsDemo6Section3 />
-    <SectionsDemo6Section4 />
-    <SectionsDemo6Section6 />
-    <SectionsDemo6Section7 />
-    <SectionsDemo6Section8 />
-    <SectionsDemo6Section9 />
-    <SectionsDemo6Section10 />
-    <SectionsDemo6Section11 />
-    <SectionsDemo6Section12 />
-    <SectionsDemo6Section13 />
-    <SectionsDemo6Section14 />
-    <SectionsDemo6Section15 />
-    <SectionsDemo6Section16 />
-    <SectionsDemo6Section17 />
+    <SectionsDemo26Section1 />
+    <SectionsDemo26Section2 />
+    <SectionsDemo26Section3 />
+    <SectionsDemo26Section10 />
+    <SectionsDemo26Section5 class="SectionsDemo26Section5" />
+    <SectionsDemo26Section11 />
+    <SectionsDemo26Section12 />
+    <SectionsDemo26Section13 />
+    <SectionsDemo26Section16 />
+    <SectionsDemo26Section17 />
+    <SectionsDemo26Section20 />
   </div>
 </template>
 
@@ -24,7 +19,14 @@
 useHead({
   title: "Martex - Software, App, SaaS & Startup (EN)",
   bodyAttrs: {
-    class: "navbar-dark navbar-dark-2 scheme-blue"
+            class: "navbar-light scheme-blue"
   },
 })
 </script>
+
+<style scoped>
+ .SectionsDemo26Section5{
+  padding-top: 0;
+  padding-bottom: 50px;
+ }
+</style>
