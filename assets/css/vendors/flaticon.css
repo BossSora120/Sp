@@ -754,3 +754,7 @@ span[class^="flaticon-"]:before, span[class*=" flaticon-"]:before {
 .flaticon-right-arrow-2:before {
     content: "\f1f5";
 }
+
+.flaticon-date-check:before {
+    content: "\F16C";
+}

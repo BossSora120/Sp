@@ -23,7 +23,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-search-engine-1"></span>
+                                        <span class="flaticon-home"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -56,7 +56,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-trophy"></span>
+                                        <span class="fi fi-rs-file-invoice-dollar"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -87,7 +87,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-hierarchical-structure"></span>
+                                        <span class="fi fi-rr-document-signed"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -116,7 +116,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-rotate"></span>
+                                        <span class="fi fi-rr-users-alt"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -146,7 +146,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-click"></span>
+                                        <span class="flaticon-date-check"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -175,7 +175,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-hosting"></span>
+                                        <span class="fi fi-rs-growth-chart-invest"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -209,9 +209,9 @@
                             <!-- Icon -->
                             <div class="fbox-ico-wrap">
                                 <div class="fbox-ico ico-50">
-                                    <div class="shape-ico color--theme">
+                                    <div class="shape-ico">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-click"></span>
+                                         <div class="bg--theme sap-icon-wrapper"><span class="sap-icon">SAP</span></div>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -239,7 +239,7 @@
                                 <div class="fbox-ico ico-50">
                                     <div class="shape-ico color--theme">
                                         <!-- Vector Icon -->
-                                        <span class="flaticon-hosting"></span>
+                                        <span class="fi fi-rr-users-alt"></span>
                                         <!-- Shape -->
                                         <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
                                             <path class="color" d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
@@ -269,6 +269,14 @@
 </template>
 
 <style scoped>
+    .fi{
+        font-family: flaticon !important;
+        font-weight: bold;
+        font-size: 56px;
+        line-height: 1!important;
+    }
+
+
     .simple-list{
         position: relative;
         left: 5px;
@@ -282,5 +290,25 @@
 
     .color{
         fill: #DDF5FF !important;
+    }
+
+    .sap-icon-wrapper{
+        color: #DDF5FF !important;
+        font-size: 30px;
+        width: 68px;
+        height: 68px;
+        position: relative;
+        z-index: 2;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        font-weight: 700;
+        top: -10px;
+    }
+
+    .sap-icon{
+        position: relative;
+        top: 2px;
     }
 </style>

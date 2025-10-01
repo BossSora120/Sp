@@ -1,3 +1,6 @@
+@import "~@flaticon/flaticon-uicons/css/all/all";
+@import url('https://cdn-uicons.flaticon.com/3.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css');
+
 /* ==========================================================================
   01. GENERAL & BASIC STYLES
   =========================================================================== */
@@ -6,7 +9,7 @@ html {
   font-size: 16px;
 }
 body {
-  font-family: "Rubik", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Noto Sans Thai', 'Noto Sans', sans-serif;
   color: #6c757d;
   line-height: 1.6666;
   font-weight: 400;
@@ -920,7 +923,6 @@ h6 {
 .font--jakarta h4,
 .font--jakarta h5,
 .font--jakarta h6 {
-  font-family: "Plus Jakarta Sans", sans-serif;
   line-height: 1.35;
 }
 .font--jakarta h1,
@@ -933,7 +935,6 @@ h6 {
 .font--inter h4,
 .font--inter h5,
 .font--inter h6 {
-  font-family: "Inter", sans-serif;
   letter-spacing: -0.5px;
 }
 /*------------------------------------------*/
@@ -2330,12 +2331,6 @@ p.video-txt-sm {
 .section-id.border-id.border--blue {
   border-color: #1680fb;
 }
-.font--jakarta .section-id {
-  font-family: "Plus Jakarta Sans", sans-serif;
-}
-.font--inter .section-id {
-  font-family: "Inter", sans-serif;
-}
 /*------------------------------------------*/
 /*  SECTION TITLE
 /*------------------------------------------*/
@@ -2929,7 +2924,6 @@ p.video-txt-sm {
 /*  HEADER LINK
 /*------------------------------------------*/
 .wsmenu > .wsmenu-list > li > a {
-  font-family: "Plus Jakarta Sans", sans-serif;
   display: block;
   font-size: 1rem;
   line-height: 50px;
@@ -3120,7 +3114,6 @@ span.sm-info {
 }
 .wsmenu > .wsmenu-list > li > ul.sub-menu > li > a {
   background-color: rgba(244, 244, 249, 0);
-  font-family: "Plus Jakarta Sans", sans-serif;
   color: #353f4f;
   font-size: 1rem;
   font-weight: 600;
@@ -3156,7 +3149,6 @@ span.sm-info {
 }
 .wsmenu > .wsmenu-list > li > .wsmegamenu.w-75 ul.link-list > li > a,
 .wsmenu > .wsmenu-list > li > .wsmegamenu.halfmenu ul.link-list > li > a {
-  font-family: "Plus Jakarta Sans", sans-serif;
   background-color: rgba(244, 244, 249, 0);
   color: #353f4f;
   font-size: 1rem;
@@ -3196,7 +3188,6 @@ span.sm-info {
 .wsmenu > .wsmenu-list > li > .wsmegamenu .title,
 .wsmenu > .wsmenu-list > li > .wsmegamenu.halfmenu .title {
   color: #929394;
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 0.875rem;
   line-height: 1;
   font-weight: 600;
@@ -6586,7 +6577,6 @@ p.rbox-2-txt span {
 /*  PRICE
 /*------------------------------------------*/
 .price span {
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 3rem;
   line-height: 1;
   font-weight: 600;
@@ -6606,7 +6596,6 @@ p.rbox-2-txt span {
 /*  DOLLAR SIGN
 /*------------------------------------------*/
 .price sup {
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 2.05rem;
   font-weight: 600;
   top: -5px;
@@ -6627,7 +6616,6 @@ p.rbox-2-txt span {
 /*  COINS
 /*------------------------------------------*/
 .pricing-3-table .price sup.coins {
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 2.35rem;
   font-weight: 600;
   top: -29px;
@@ -6638,7 +6626,6 @@ p.rbox-2-txt span {
 /*  Validity
 /*------------------------------------------*/
 .price sup.validity {
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 1.4rem;
   font-weight: 400;
   top: -2px;
@@ -6993,12 +6980,10 @@ p.rbox-2-txt span {
 }
 .comp-table .table-responsive thead th {
   font-size: 1.15rem;
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 600;
 }
 .comp-table .table-responsive tbody th {
   font-size: 1rem;
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-weight: 600;
 }
 .comp-table .table-responsive tbody td {
@@ -7100,7 +7085,6 @@ p.rbox-2-txt span {
   margin-bottom: 8px;
 }
 .team-member-data p {
-  font-family: "Plus Jakarta Sans", sans-serif;
   line-height: 1;
   font-weight: 400;
   letter-spacing: 0;
@@ -7156,7 +7140,6 @@ ul.tm-social li {
 /*  ROLE BOX TEXT
 /*------------------------------------------*/
 .role-box span {
-  font-family: "Plus Jakarta Sans", sans-serif;
   display: block;
   font-size: 0.8rem;
   line-height: 1;
@@ -7179,7 +7162,6 @@ ul.tm-social li {
   margin-bottom: 50px;
 }
 #role-page .inner-page-title span {
-  font-family: "Plus Jakarta Sans", sans-serif;
   display: block;
   font-size: 0.9rem;
   line-height: 1;
@@ -7761,7 +7743,6 @@ span.release-date span {
 /*------------------------------------------*/
 .post-tag {
   display: block;
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 0.75rem;
   font-weight: 600;
   letter-spacing: 0;
@@ -8960,7 +8941,6 @@ img.footer-logo-dark {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 0.9rem;
   font-weight: 500;
   margin: 25px 0px 30px;

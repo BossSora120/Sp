@@ -97,11 +97,10 @@ onBeforeUnmount(() => {
 <style scoped>
   .lang-toggle {
     position: absolute;
-    border: none;
     border-radius: 5px;
     padding: 0.3rem 0.8rem;
     cursor: pointer;
-    top: 50%;
+    top: 49%;
     transform: translateY(-50%);
     right: -50px;
     height: 60%;

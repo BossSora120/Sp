@@ -36,13 +36,15 @@ export default defineNuxtConfig({
           Rubik: { wght: [300, 400, 500, 600, 700] },
           "Plus+Jakarta+Sans": { wght: [400, 500, 600, 700] },
           Inter: { wght: [400, 500, 600, 700, 800] },
-          download: true,
-          inject: true
-        }
-      }
+          "Noto+Sans+Thai": { wght: [400, 500, 600, 700] },
+          "Noto+Sans": { wght: [400, 500, 600, 700] },  // ← เพิ่ม Noto Sans
+        },
+        download: true,
+        inject: true,
+      },
     ],
     "nuxt-swiper",
-    "@nuxtjs/i18n"   // ✅ เพิ่ม i18n เข้าไป
+    "@nuxtjs/i18n",
   ],
   i18n: {
     locales: [

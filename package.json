@@ -18,6 +18,7 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.3.1",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/i18n": "^10.1.0",
     "animate.css": "^4.1.1",
