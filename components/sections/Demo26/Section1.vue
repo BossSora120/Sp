@@ -51,6 +51,6 @@
 
 <style>
     .hero-header{
-        width: 950px;
+        max-width: 600px;
     }
 </style>
